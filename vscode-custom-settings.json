@@ -1,0 +1,38 @@
+{
+  "workbench.iconTheme": "catppuccin-latte",
+  "files.autoSave": "afterDelay",
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.tabSize": 2,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.lineNumbers": "off",
+  "explorer.confirmDelete": false,
+  "terminal.integrated.env.windows": {},
+  "console-ninja.featureSet": "Community",
+  "extensions.ignoreRecommendations": true,
+  "workbench.colorTheme": "Catppuccin Latte",
+  "workbench.preferredDarkColorTheme": "Catppuccin Mocha",
+  "workbench.preferredHighContrastColorTheme": "Catppuccin Mocha",
+  "workbench.preferredHighContrastLightColorTheme": "Catppuccin Latte",
+  "workbench.preferredLightColorTheme": "Catppuccin Latte",
+  "editor.accessibilitySupport": "off",
+  "editor.lineHeight": 1.6,
+  "editor.renderLineHighlight": "gutter",
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "workbench.activityBar.location": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "workbench.statusBar.visible": false,
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "window.menuBarVisibility": "compact",
+  "apc.stylesheet": {
+      ".title-label > h2": "display: none;"
+  },
+  "apc.listRow": {
+      "height": 24
+  },
+  "editor.linkedEditing": true
+}
